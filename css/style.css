@@ -1,0 +1,85 @@
+body{
+    font-family: "Helvetica", Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+:link{
+    color: dodgerblue;
+}
+
+h3{
+    font-family: "Accord SF", serif;
+    color: #8090cc;
+}
+
+a:hover{
+    color: #8090cc;
+}
+
+strong{
+    color: #8090cc;
+}
+
+#main{
+    background-color: antiquewhite;
+    padding-top: 20px;
+}
+
+#title{
+    text-align: center;
+    line-height: 40px;
+    font-size: 48px;
+    font-family: "Playfair Display SC", playfaier Display, Times, serif;
+    color: #8090cc;
+}
+
+#subtitle{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#img-div{
+    max-width: 1000px;
+    margin: auto;
+    background-color: white;
+    background-image: url('data:image/svg+xml,%3Csvg width="52" height="26" viewBox="0 0 52 26" xmlns="http://www.w3.org/2000/svg"%3E%3Cg fill="none" fill-rule="evenodd"%3E%3Cg fill="%239C92AC" fill-opacity="0.4"%3E%3Cpath d="M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z" /%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+    border-radius: 5px;
+    padding: 1em;
+}
+
+#image{
+    max-width: 1000px;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#img-caption{
+    padding: 10px;
+    background-color: white;
+}
+
+#tribute-info{
+    text-align: center;
+    margin: 30px;
+}
+
+ul{
+    text-align: left;
+    max-width: 500px;
+    padding: 10px;
+    margin: 0 auto 30px auto;
+}
+
+#quote{
+    max-width: 550px;
+    margin: 0 auto 20px auto;
+    text-align: left;
+}
+
+#tribute-footer{
+    margin: 0 auto 0 auto;
+    padding-bottom: 30px;
+    text-align: center;
+}
